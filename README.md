@@ -3,7 +3,7 @@
 - 🌱 Atualmente estudando Programação
 
 ### Como chegar até mim:
-[<img aling="center" alt="Java" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/joelson-torres"target="_blank"//)
+[<img aling="center" alt="Java" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/joelson-torres//)
 
 <br>
 <a href="https://github.com/JoelsonTF">
